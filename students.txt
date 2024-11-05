@@ -1,0 +1,1010 @@
+Katelyn,Shaffer,4,Nursing,406896733,ksha733@uni.ca
+Blaine,Dale,1,Biology,674200620,bdal620@uni.ca
+Jermaine,Hardin,4,Civil Eng.,992646834,jhar834@uni.ca
+Diane,Palmer,2,Dance,315892768,dpal768@uni.ca
+Mckenzie,Trujill,3,Nursing,164626744,mtru744@uni.ca
+Darcie,Marsh,4,Philosophy,549816737,dmar737@uni.ca
+Vinnie,Mcconnell,4,Mathematics,489104050,vmcc050@uni.ca
+Rayhan,Bowen,1,Psychology,415679728,rbow728@uni.ca
+India,Buck,4,Electrical Eng.,207562321,ibuc321@uni.ca
+Lola,Chang,4,Nursing,885456526,lcha526@uni.ca
+Henrietta,Ponce,3,Electrical Eng.,519215557,hpon557@uni.ca
+Addie,Keith,1,English,173884990,akei990@uni.ca
+Scott,Figueroa,4,Nursing,642334879,sfig879@uni.ca
+Salman,Chan,4,Chemistry,318894860,scha860@uni.ca
+Tasneem,Decker,4,Law,734065672,tdec672@uni.ca
+Saarah,Newman,1,Civil Eng.,560288713,snew713@uni.ca
+Jermaine,Burns,2,Dance,631619147,jbur147@uni.ca
+Addie,Camacho,4,French,288766297,acam297@uni.ca
+Scott,Sampson,1,French,875251806,ssam806@uni.ca
+Henrietta,Roach,1,Law,615688903,hroa903@uni.ca
+Macy,Buck,2,Mathematics,218587329,mbuc329@uni.ca
+Vinnie,Swanson,2,Physics,642657633,vswa633@uni.ca
+Georgiana,Lozano,3,Music,840768026,gloz026@uni.ca
+Addie,Hardin,4,Biology,704826321,ahar321@uni.ca
+Maxim,Schultz,3,Mathematics,421979481,msch481@uni.ca
+Aidan,Cantrell,3,French,741833279,acan279@uni.ca
+Maxim,Carey,3,Law,477939796,mcar796@uni.ca
+Davina,Gardner,2,Computer Science,404023890,dgar890@uni.ca
+Ameer,Nichols,4,French,405230203,anic203@uni.ca
+Tristan,Fowler,1,English,755175321,tfow321@uni.ca
+Kyle,Gilmore,1,Dance,756898484,kgil484@uni.ca
+Scott,Charles,4,French,570052848,scha848@uni.ca
+Antonia,Foster,2,English,112092987,afos987@uni.ca
+Lola,Griffith,1,Law,687681618,lgri618@uni.ca
+Sara,Silva,4,Chemistry,569371716,ssil716@uni.ca
+Eesa,Trujill,1,Dance,644767334,etru334@uni.ca
+Katrina,Carpenter,3,Physics,470869874,kcar874@uni.ca
+Dawn,Singh,3,Philosophy,523957939,dsin939@uni.ca
+Shania,Fox,3,Dance,477650929,sfox929@uni.ca
+Aisha,Fox,2,Chemistry,870448729,afox729@uni.ca
+Diane,Bell,2,Physics,320155619,dbel619@uni.ca
+Donna,Buck,4,Psychology,886124390,dbuc390@uni.ca
+Diane,Cross,3,Computer Science,487044948,dcro948@uni.ca
+Autumn,Marsh,2,Chemical Eng.,197350721,amar721@uni.ca
+Tasneem,Guerrero,3,Mathematics,304002200,tgue200@uni.ca
+Tiago,Ponce,2,Electrical Eng.,626709636,tpon636@uni.ca
+Rosa,Riley,2,Dance,746293368,rril368@uni.ca
+Vinnie,Cole,1,Nursing,114476184,vcol184@uni.ca
+Usman,Fox,4,Computer Science,490026760,ufox760@uni.ca
+Lara,Marshall,2,Psychology,176610308,lmar308@uni.ca
+Diane,Waters,4,Chemical Eng.,852194569,dwat569@uni.ca
+Macy,Carey,3,Psychology,118668306,mcar306@uni.ca
+Elif,Roach,1,Mathematics,193267915,eroa915@uni.ca
+Davina,Newman,4,Music,485119811,dnew811@uni.ca
+Macy,Mcconnell,4,Mechnical Eng.,515232370,mmcc370@uni.ca
+Phyllis,Mcguire,4,English,377174830,pmcg830@uni.ca
+Alana,Decker,2,Mechnical Eng.,519358011,adec011@uni.ca
+Davina,Hardin,4,Civil Eng.,919553695,dhar695@uni.ca
+Donna,Lozano,2,Chemistry,975824006,dloz006@uni.ca
+Trinity,Hayes,4,Civil Eng.,229385622,thay622@uni.ca
+Diane,Mcgowan,1,Music,372950030,dmcg030@uni.ca
+Savannah,Gardner,3,Computer Science,436107067,sgar067@uni.ca
+Blaine,Logan,2,English,599061944,blog944@uni.ca
+Dawn,Bruce,3,Mechnical Eng.,172026955,dbru955@uni.ca
+Declan,Ortiz,3,Dance,691481133,dort133@uni.ca
+Muhammad,Bell,4,Chemical Eng.,174806405,mbel405@uni.ca
+Elif,Swanson,4,Chemistry,178215223,eswa223@uni.ca
+Lara,James,2,Philosophy,538099419,ljam419@uni.ca
+Blaine,Bruce,2,Electrical Eng.,578868432,bbru432@uni.ca
+Donna,Mendoza,2,Law,893539468,dmen468@uni.ca
+Roosevelt,Newman,1,Computer Science,534190122,rnew122@uni.ca
+Safiyyah,Chan,1,Psychology,495930851,scha851@uni.ca
+Mckenzie,Norris,1,Mathematics,917476267,mnor267@uni.ca
+Alivia,Buck,4,Nursing,239850063,abuc063@uni.ca
+Andrew,Bowen,1,Nursing,119689289,abow289@uni.ca
+Emma,Waters,3,Mechnical Eng.,965619085,ewat085@uni.ca
+Alana,Guerrero,4,Nursing,637457454,ague454@uni.ca
+Katerina,Marshall,3,Electrical Eng.,991093363,kmar363@uni.ca
+Lara,Lozano,4,Biology,636686793,lloz793@uni.ca
+Gethin,Jacobson,3,Law,995988311,gjac311@uni.ca
+Rodney,Swanson,3,Mechnical Eng.,217171728,rswa728@uni.ca
+Alina,Foster,4,Civil Eng.,139307768,afos768@uni.ca
+Arjun,Gardner,4,Electrical Eng.,704928430,agar430@uni.ca
+Macy,Lindsay,2,Chemical Eng.,264527412,mlin412@uni.ca
+Georgiana,Carpenter,4,Biology,198814653,gcar653@uni.ca
+Keenan,Curtis,1,Electrical Eng.,451032629,kcur629@uni.ca
+Diane,Gilmore,3,Mathematics,552583461,dgil461@uni.ca
+Vinnie,Sharpe,4,English,221978165,vsha165@uni.ca
+Aisha,Franklin,4,French,643372220,afra220@uni.ca
+Maliha,House,2,French,676800805,mhou805@uni.ca
+Tasneem,Schultz,3,Philosophy,850086596,tsch596@uni.ca
+Nataniel,Norris,4,Biology,504566809,nnor809@uni.ca
+Tiago,Hendrix,2,Dance,857467861,then861@uni.ca
+Aidan,Carpenter,2,English,405556332,acar332@uni.ca
+Arjun,Roach,3,English,565026403,aroa403@uni.ca
+Ezekiel,Richard,3,Psychology,780427634,eric634@uni.ca
+Rodney,Bowen,4,Chemical Eng.,840132891,rbow891@uni.ca
+Declan,Newman,2,French,888286698,dnew698@uni.ca
+Carter,Mendoza,2,English,207180514,cmen514@uni.ca
+Gethin,Decker,4,Chemical Eng.,299529659,gdec659@uni.ca
+Mckenzie,Lindsay,4,Dance,902889278,mlin278@uni.ca
+Camilla,Mcconnell,3,Civil Eng.,199474384,cmcc384@uni.ca
+Imran,Mcguire,3,Music,311933019,imcg019@uni.ca
+Donna,Swanson,1,Biology,573197794,dswa794@uni.ca
+Ezekiel,Pittman,2,Chemical Eng.,155815851,epit851@uni.ca
+Yaseen,Schultz,3,Nursing,319083781,ysch781@uni.ca
+Autumn,Chan,2,Electrical Eng.,204796387,acha387@uni.ca
+Henrietta,Shaffer,3,Music,455263936,hsha936@uni.ca
+Nataniel,Knowles,2,Computer Science,418518297,nkno297@uni.ca
+Davina,Mcconnell,1,Biology,518349172,dmcc172@uni.ca
+Celine,Singh,1,Biology,674732565,csin565@uni.ca
+Brendon,Silva,3,English,487787020,bsil020@uni.ca
+Antonia,Adkins,2,Philosophy,683840354,aadk354@uni.ca
+Rosa,Hendrix,3,Philosophy,239219723,rhen723@uni.ca
+Jermaine,Oconnor,1,Philosophy,770635954,joco954@uni.ca
+Lola,Adkins,4,English,883834994,ladk994@uni.ca
+Carter,Rocha,2,Philosophy,871076625,croc625@uni.ca
+Ezekiel,Mcguire,1,Philosophy,128359078,emcg078@uni.ca
+Imran,Ortiz,4,Computer Science,176612935,iort935@uni.ca
+Macy,Griffith,4,Nursing,550166678,mgri678@uni.ca
+Brett,Swanson,4,Nursing,419785822,bswa822@uni.ca
+Nana,Riley,4,Philosophy,302522743,nril743@uni.ca
+Georgiana,Mcconnell,1,Psychology,933034936,gmcc936@uni.ca
+Euan,Fletcher,1,Mathematics,820025668,efle668@uni.ca
+Kyle,Guerrero,2,Dance,988607674,kgue674@uni.ca
+Dawn,Bowen,3,Psychology,380572591,dbow591@uni.ca
+Muhammad,Pittman,2,Physics,826878226,mpit226@uni.ca
+Trinity,Fox,2,English,147351939,tfox939@uni.ca
+Salman,Rowe,4,Psychology,359710313,srow313@uni.ca
+Maliha,Chang,2,Chemistry,829718961,mcha961@uni.ca
+Henrietta,James,4,Chemistry,498712230,hjam230@uni.ca
+Tomos,Baldwin,1,Civil Eng.,359321718,tbal718@uni.ca
+Carter,Silva,2,Physics,638834012,csil012@uni.ca
+Addie,Mcconnell,4,Psychology,893933893,amcc893@uni.ca
+Arjun,Figueroa,1,Music,776368224,afig224@uni.ca
+Philippa,Dale,1,Nursing,856368346,pdal346@uni.ca
+Ridwan,Mcguire,3,Chemistry,555372661,rmcg661@uni.ca
+Gethin,Armstrong,2,Electrical Eng.,265903441,garm441@uni.ca
+Walter,Conway,3,Mechnical Eng.,215965591,wcon591@uni.ca
+Emma,Norris,4,Chemical Eng.,678624907,enor907@uni.ca
+Macy,Roach,3,Chemical Eng.,957430261,mroa261@uni.ca
+Elif,Foster,1,French,439020548,efos548@uni.ca
+Donna,Rocha,3,Chemistry,287166156,droc156@uni.ca
+Keyaan,Sharpe,1,English,472726367,ksha367@uni.ca
+Vinnie,Conway,3,Music,614441745,vcon745@uni.ca
+Phyllis,Trujill,3,Electrical Eng.,904542671,ptru671@uni.ca
+Georgiana,Fletcher,2,Biology,597543990,gfle990@uni.ca
+Ameer,Johnson,3,Biology,606402537,ajoh537@uni.ca
+Nataniel,Marshall,1,Nursing,950348916,nmar916@uni.ca
+Maliha,Figueroa,2,Biology,118044122,mfig122@uni.ca
+Celine,Wolf,2,English,724833986,cwol986@uni.ca
+Tristan,Rowland,3,Law,497632094,trow094@uni.ca
+Camilla,Vaughan,3,Dance,966777030,cvau030@uni.ca
+Saarah,Oconnor,3,French,205385203,soco203@uni.ca
+Tiago,Silva,4,Music,328152313,tsil313@uni.ca
+Zane,Rocha,3,Music,543181623,zroc623@uni.ca
+Sara,Shah,4,Psychology,253967661,ssha661@uni.ca
+Alana,Chan,2,Mathematics,120354486,acha486@uni.ca
+Keyaan,Golden,1,Biology,536910658,kgol658@uni.ca
+Darcie,Lozano,4,Civil Eng.,736671961,dloz961@uni.ca
+Alivia,Foster,2,Psychology,689663429,afos429@uni.ca
+Kimberley,Trujill,2,Mathematics,776940657,ktru657@uni.ca
+Eesa,Glenn,1,Computer Science,213157664,egle664@uni.ca
+Usman,Burns,1,Biology,135543418,ubur418@uni.ca
+Antonia,Baldwin,1,Chemical Eng.,931146196,abal196@uni.ca
+Davina,Paul,1,Music,895391636,dpau636@uni.ca
+Ridwan,Golden,1,Philosophy,570523995,rgol995@uni.ca
+Macy,Singh,4,Chemical Eng.,578549272,msin272@uni.ca
+Keenan,Riley,1,Computer Science,974536861,kril861@uni.ca
+Camilla,Richard,4,Biology,433084799,cric799@uni.ca
+Lenny,Cole,4,Biology,335813737,lcol737@uni.ca
+Rodney,Rowland,2,Biology,654193731,rrow731@uni.ca
+Iqra,Richard,2,Biology,709516216,iric216@uni.ca
+Yaseen,Schultz,4,Mathematics,585965088,ysch088@uni.ca
+Muhammad,Rowland,3,Mechnical Eng.,506158284,mrow284@uni.ca
+Imran,Golden,3,English,217691764,igol764@uni.ca
+Declan,Marshall,1,English,864202704,dmar704@uni.ca
+Savannah,Chan,3,Chemistry,430853164,scha164@uni.ca
+Ameer,House,4,Dance,801603046,ahou046@uni.ca
+Carol,Meza,1,Mathematics,888635565,cmez565@uni.ca
+Celine,Marshall,3,Dance,910994599,cmar599@uni.ca
+Autumn,Franklin,4,Civil Eng.,225397990,afra990@uni.ca
+Celine,Bowen,1,Civil Eng.,514340290,cbow290@uni.ca
+Gethin,Hendrix,1,English,776378771,ghen771@uni.ca
+Harry,Glenn,3,Nursing,321359941,hgle941@uni.ca
+Aran,Charles,2,Mechnical Eng.,158259179,acha179@uni.ca
+Antonia,Buck,4,Biology,782805581,abuc581@uni.ca
+Aran,Morales,1,Chemical Eng.,137795109,amor109@uni.ca
+Euan,Camacho,2,Chemistry,649714248,ecam248@uni.ca
+Maliha,Decker,1,Psychology,209152032,mdec032@uni.ca
+Herbie,Cross,1,Philosophy,998392976,hcro976@uni.ca
+Mae,Chang,3,Law,908294826,mcha826@uni.ca
+Autumn,Carpenter,4,Electrical Eng.,607915592,acar592@uni.ca
+Shania,Bruce,3,Psychology,476944845,sbru845@uni.ca
+Fahad,Gallegos,1,English,214830299,fgal299@uni.ca
+Rodney,Horne,2,Biology,486162187,rhor187@uni.ca
+Macy,Lara,4,Electrical Eng.,640878426,mlar426@uni.ca
+Lea,Shaffer,3,Computer Science,224247917,lsha917@uni.ca
+Tristan,Burns,1,Nursing,764008168,tbur168@uni.ca
+Alina,Foster,4,Chemistry,422676069,afos069@uni.ca
+Georgiana,Lyons,2,Law,287141503,glyo503@uni.ca
+Tristan,Gilmore,1,Chemistry,238641767,tgil767@uni.ca
+Declan,Gibbons,4,Music,910005136,dgib136@uni.ca
+Eesa,Hendrix,3,Law,479760626,ehen626@uni.ca
+Katelyn,Wiley,3,English,105351200,kwil200@uni.ca
+Elisha,Gallegos,2,Biology,476216484,egal484@uni.ca
+Keyaan,Carpenter,1,Chemistry,984827842,kcar842@uni.ca
+Zane,Dale,3,French,701802193,zdal193@uni.ca
+Nora,Guerrero,1,Law,352948216,ngue216@uni.ca
+Herbie,Gilmore,1,English,836156789,hgil789@uni.ca
+Savannah,Wiley,3,Dance,838755427,swil427@uni.ca
+Ezekiel,Meza,4,Nursing,691383104,emez104@uni.ca
+Antonia,Summers,1,Computer Science,247726770,asum770@uni.ca
+Elif,Lozano,3,Nursing,457232559,eloz559@uni.ca
+Kimberley,Norris,3,Chemistry,517645457,knor457@uni.ca
+Maxim,Gilmore,4,Physics,197947538,mgil538@uni.ca
+Emma,Marshall,3,Law,581028989,emar989@uni.ca
+Antonia,Cross,2,Mathematics,870293351,acro351@uni.ca
+Rodney,Armstrong,4,Biology,500556676,rarm676@uni.ca
+Rayhan,Trevino,3,English,586008261,rtre261@uni.ca
+Lara,Riley,3,Law,197093675,lril675@uni.ca
+Katelyn,Ortiz,3,Civil Eng.,131180250,kort250@uni.ca
+Tasnim,Lara,3,Physics,648838107,tlar107@uni.ca
+Antonia,Griffith,4,Physics,986055144,agri144@uni.ca
+Walter,Ponce,2,Biology,406609406,wpon406@uni.ca
+Saarah,Singh,1,Psychology,700589902,ssin902@uni.ca
+Jayson,Golden,4,Nursing,535124488,jgol488@uni.ca
+Lola,Camacho,4,Mechnical Eng.,314368489,lcam489@uni.ca
+Lola,Lindsay,1,Mathematics,173924391,llin391@uni.ca
+Mae,Trevino,3,Biology,868401864,mtre864@uni.ca
+Maxim,Golden,1,Nursing,941467431,mgol431@uni.ca
+Jayson,Meza,2,Dance,847824689,jmez689@uni.ca
+Dawn,Hilton,2,Physics,453087234,dhil234@uni.ca
+Blaine,Guerrero,2,Dance,652159463,bgue463@uni.ca
+Lenny,Waters,4,Civil Eng.,669264889,lwat889@uni.ca
+Mae,Wolf,2,Chemical Eng.,731081754,mwol754@uni.ca
+Nataniel,Carpenter,4,Philosophy,363537587,ncar587@uni.ca
+Ameer,Gibbons,2,Chemical Eng.,754173303,agib303@uni.ca
+Maxim,Maldonado,1,Dance,323864325,mmal325@uni.ca
+Tomos,Cross,4,French,388438519,tcro519@uni.ca
+Autumn,Logan,4,Music,834544792,alog792@uni.ca
+Saarah,Sharpe,2,Philosophy,154614627,ssha627@uni.ca
+Rosa,Richard,1,Law,967667806,rric806@uni.ca
+Muhammad,Baldwin,3,Electrical Eng.,343452967,mbal967@uni.ca
+Addie,Wolf,4,English,171863260,awol260@uni.ca
+Euan,Guerrero,1,Mechnical Eng.,689126960,egue960@uni.ca
+Shania,Horne,4,Physics,201123713,shor713@uni.ca
+Bernard,Logan,1,Physics,111265782,blog782@uni.ca
+Kyle,Curtis,1,Music,564077928,kcur928@uni.ca
+Addie,Hendrix,3,Mathematics,892188585,ahen585@uni.ca
+Mckenzie,Carpenter,4,Chemical Eng.,646200771,mcar771@uni.ca
+Aisha,Bell,2,Psychology,599743696,abel696@uni.ca
+Lea,Fox,4,French,931418051,lfox051@uni.ca
+Antonia,Daugherty,4,Biology,792223661,adau661@uni.ca
+Bernard,Wolf,1,Music,411516467,bwol467@uni.ca
+Aisha,Mendoza,1,Chemical Eng.,898050718,amen718@uni.ca
+Davina,Shah,3,Mechnical Eng.,183104846,dsha846@uni.ca
+Kimberley,Chan,4,Computer Science,483710358,kcha358@uni.ca
+Yaseen,Rowe,1,Biology,366896547,yrow547@uni.ca
+Shania,Trevino,1,Mathematics,892171476,stre476@uni.ca
+Lola,Sampson,3,Physics,186809711,lsam711@uni.ca
+Alana,Vaughan,1,Nursing,380791610,avau610@uni.ca
+Muhammad,Rowland,4,Chemical Eng.,113219481,mrow481@uni.ca
+Tasneem,Guerrero,2,Civil Eng.,397214348,tgue348@uni.ca
+Phyllis,Trevino,4,Electrical Eng.,195619877,ptre877@uni.ca
+Julie,Wiley,4,English,386477292,jwil292@uni.ca
+Euan,Ibarra,4,Chemistry,826337010,eiba010@uni.ca
+Camilla,Kemp,2,Mathematics,518508930,ckem930@uni.ca
+Shania,Franklin,1,Chemistry,391993655,sfra655@uni.ca
+India,Buck,4,Physics,839621737,ibuc737@uni.ca
+Blaine,Richard,1,Chemical Eng.,626090479,bric479@uni.ca
+Sara,Gardner,1,Philosophy,212147475,sgar475@uni.ca
+Tomos,Marsh,4,Psychology,120616646,tmar646@uni.ca
+Elif,Cole,1,Music,269294318,ecol318@uni.ca
+Jayson,Norris,1,Philosophy,362423814,jnor814@uni.ca
+Diane,Gilmore,4,Mathematics,338615222,dgil222@uni.ca
+Eesa,Fox,3,Nursing,919103286,efox286@uni.ca
+Rosa,Figueroa,2,Mechnical Eng.,280413940,rfig940@uni.ca
+Philippa,Rocha,1,Computer Science,716231312,proc312@uni.ca
+Saarah,Keith,2,Mechnical Eng.,898786906,skei906@uni.ca
+Tasnim,Marsh,4,Electrical Eng.,359103815,tmar815@uni.ca
+Carol,Buck,1,Physics,548397488,cbuc488@uni.ca
+India,Buck,3,English,830791424,ibuc424@uni.ca
+Aidan,Collins,1,Computer Science,275174090,acol090@uni.ca
+Ameer,Kemp,1,Civil Eng.,859087018,akem018@uni.ca
+Rodney,Marsh,4,English,443786694,rmar694@uni.ca
+Georgiana,Figueroa,4,Civil Eng.,377945048,gfig048@uni.ca
+Fatimah,Logan,3,Nursing,460933989,flog989@uni.ca
+Muhammed,Waters,3,Philosophy,873056465,mwat465@uni.ca
+Raees,Jenkins,4,French,584023110,rjen110@uni.ca
+Philippa,Carpenter,2,Chemical Eng.,873810776,pcar776@uni.ca
+Gethin,Richard,4,Dance,446936613,gric613@uni.ca
+Julie,Nichols,4,Music,128340447,jnic447@uni.ca
+Mustafa,Fowler,3,Electrical Eng.,706624964,mfow964@uni.ca
+Henrietta,Bell,2,Mathematics,503576605,hbel605@uni.ca
+Jesse,Daugherty,2,Biology,771749603,jdau603@uni.ca
+Saul,Adkins,4,Biology,661738288,sadk288@uni.ca
+Ridwan,Cross,4,Nursing,291463898,rcro898@uni.ca
+Donna,Rowe,4,Dance,360776217,drow217@uni.ca
+Kimberley,Gallegos,1,Nursing,134566139,kgal139@uni.ca
+Aran,Figueroa,1,Computer Science,755161503,afig503@uni.ca
+Yaseen,Buck,2,Computer Science,313625946,ybuc946@uni.ca
+Trinity,Adkins,3,Dance,635755550,tadk550@uni.ca
+Emma,Keith,3,Physics,152789471,ekei471@uni.ca
+Raees,Carey,1,Electrical Eng.,809007329,rcar329@uni.ca
+Malika,Vaughan,3,French,403428954,mvau954@uni.ca
+Antonia,Figueroa,2,Biology,941474753,afig753@uni.ca
+Mustafa,Johnson,1,Chemical Eng.,421976379,mjoh379@uni.ca
+Lara,Le,4,Law,652156132,lle132@uni.ca
+Alana,Jenkins,4,Dance,845278372,ajen372@uni.ca
+Henrietta,Armstrong,3,English,111133925,harm925@uni.ca
+Iqra,Singh,3,Computer Science,433895041,isin041@uni.ca
+Ameer,Chan,2,English,660390953,acha953@uni.ca
+Arjun,Marshall,1,Psychology,142727456,amar456@uni.ca
+Muhammad,Jenkins,2,Chemistry,307116367,mjen367@uni.ca
+Alana,Paul,3,Physics,195549503,apau503@uni.ca
+Jayson,Ortiz,2,Electrical Eng.,874297916,jort916@uni.ca
+Lola,Bruce,4,Nursing,810139930,lbru930@uni.ca
+Walter,Ibarra,3,Computer Science,249896766,wiba766@uni.ca
+Kyle,Wiley,1,Electrical Eng.,598515466,kwil466@uni.ca
+Malika,Chang,4,Chemistry,259851971,mcha971@uni.ca
+Nora,Hardin,2,English,319193682,nhar682@uni.ca
+Sara,Mcguire,2,Mechnical Eng.,384782297,smcg297@uni.ca
+Lara,Vaughan,2,French,324624556,lvau556@uni.ca
+Emma,Camacho,3,Computer Science,851116231,ecam231@uni.ca
+Shania,Fletcher,4,Electrical Eng.,294332573,sfle573@uni.ca
+Blaine,Guerrero,4,Philosophy,410761847,bgue847@uni.ca
+Jayson,Marshall,3,French,713211215,jmar215@uni.ca
+Ridwan,Adkins,3,Electrical Eng.,196989539,radk539@uni.ca
+Addie,Baldwin,2,Philosophy,882375348,abal348@uni.ca
+Usman,Summers,4,French,543635285,usum285@uni.ca
+Fahad,Lindsay,3,Physics,102628141,flin141@uni.ca
+Phyllis,Charles,1,Civil Eng.,425010248,pcha248@uni.ca
+Muhammad,Marshall,2,Mechnical Eng.,764968681,mmar681@uni.ca
+Diane,Foster,4,Dance,158411835,dfos835@uni.ca
+Andrew,Gilmore,1,Philosophy,515551929,agil929@uni.ca
+Aidan,Mcguire,3,Civil Eng.,787077119,amcg119@uni.ca
+Blaine,Rowe,3,Chemistry,780613710,brow710@uni.ca
+Nora,Fowler,1,Civil Eng.,670510936,nfow936@uni.ca
+Jayson,Bruce,1,Law,463597593,jbru593@uni.ca
+Phyllis,Lyons,2,Electrical Eng.,883571479,plyo479@uni.ca
+Aidan,Palmer,4,English,722492366,apal366@uni.ca
+Muhammad,Singh,3,English,785965749,msin749@uni.ca
+Arjun,Shah,3,Mathematics,748193208,asha208@uni.ca
+Zane,Singh,1,Chemistry,637678393,zsin393@uni.ca
+Henrietta,Collins,1,Nursing,178293906,hcol906@uni.ca
+Lola,Figueroa,2,Biology,906403246,lfig246@uni.ca
+Mckenzie,Trujill,1,Civil Eng.,595094748,mtru748@uni.ca
+Arjun,Jenkins,1,Physics,573824158,ajen158@uni.ca
+Tasneem,Gibbons,2,Biology,604186581,tgib581@uni.ca
+Maxim,Trujill,4,Computer Science,829962685,mtru685@uni.ca
+Aisha,Trujill,4,English,883008466,atru466@uni.ca
+Elisha,Carey,1,English,119646638,ecar638@uni.ca
+Saul,Marshall,3,Mechnical Eng.,559881485,smar485@uni.ca
+Jesse,Vaughan,4,English,571054023,jvau023@uni.ca
+Scott,Summers,4,Chemistry,415661178,ssum178@uni.ca
+Pablo,Gilmore,4,Biology,193867666,pgil666@uni.ca
+Lara,Sharpe,2,Computer Science,390955135,lsha135@uni.ca
+Brett,Gibbons,4,French,222360707,bgib707@uni.ca
+Walter,Rowe,3,Chemical Eng.,237439865,wrow865@uni.ca
+Scott,Wiley,4,Dance,617815752,swil752@uni.ca
+Darcie,Curtis,2,Chemical Eng.,131674423,dcur423@uni.ca
+Salman,Sampson,2,English,164776579,ssam579@uni.ca
+Herbie,Mcguire,2,Nursing,250184080,hmcg080@uni.ca
+Saul,Fletcher,2,Electrical Eng.,330863304,sfle304@uni.ca
+Saul,Franklin,3,Physics,252105944,sfra944@uni.ca
+Georgiana,Trevino,2,Physics,589972235,gtre235@uni.ca
+Malika,Decker,4,English,123449902,mdec902@uni.ca
+Dawn,Jenkins,4,Biology,528122139,djen139@uni.ca
+Fahad,Marshall,1,Psychology,805150969,fmar969@uni.ca
+Trinity,Franklin,2,Music,257396041,tfra041@uni.ca
+Nicole,Griffith,2,Philosophy,897917511,ngri511@uni.ca
+Muhammed,Ortiz,1,Music,633632450,mort450@uni.ca
+Tomos,House,3,Mechnical Eng.,936984412,thou412@uni.ca
+Philippa,Chan,3,Chemistry,402873271,pcha271@uni.ca
+Brendon,Cantrell,1,Law,488168149,bcan149@uni.ca
+Alana,Trevino,3,Chemical Eng.,915835540,atre540@uni.ca
+Alana,Shah,3,Nursing,575769955,asha955@uni.ca
+Lola,Glenn,1,Psychology,319224748,lgle748@uni.ca
+Aran,Riley,3,Psychology,253232153,aril153@uni.ca
+Marnie,Golden,1,Chemistry,387641114,mgol114@uni.ca
+Sara,Hardin,2,Mathematics,752876497,shar497@uni.ca
+Alina,Shaffer,1,Dance,293660107,asha107@uni.ca
+Kimberley,Carey,4,Civil Eng.,240632742,kcar742@uni.ca
+Alana,James,4,Physics,622765606,ajam606@uni.ca
+Lea,Ray,2,Electrical Eng.,603471891,lray891@uni.ca
+Nicole,Norris,3,Law,995558735,nnor735@uni.ca
+Ezekiel,Trujill,1,Civil Eng.,149885169,etru169@uni.ca
+Diane,Buck,2,Chemistry,801145937,dbuc937@uni.ca
+Maliha,Chang,4,Physics,900638983,mcha983@uni.ca
+Jermaine,Norris,1,Nursing,269373585,jnor585@uni.ca
+Bernard,Cole,3,French,508712881,bcol881@uni.ca
+Marnie,Decker,2,French,883892031,mdec031@uni.ca
+Alina,Carpenter,3,Chemical Eng.,559731273,acar273@uni.ca
+Pablo,Oconnor,3,French,437225830,poco830@uni.ca
+Diane,Bowen,3,Dance,954272043,dbow043@uni.ca
+Savannah,Rowland,3,Computer Science,221020588,srow588@uni.ca
+Andrew,Carpenter,1,Philosophy,959381684,acar684@uni.ca
+Brendon,Pittman,4,Chemistry,839560319,bpit319@uni.ca
+Harry,Keith,4,Chemistry,664453399,hkei399@uni.ca
+Savannah,Nichols,2,Music,924333165,snic165@uni.ca
+Imran,Oconnor,3,Chemistry,421163708,ioco708@uni.ca
+Jessica,Carey,1,English,975703402,jcar402@uni.ca
+Carter,Shaffer,1,Dance,380477756,csha756@uni.ca
+Julie,Swanson,2,Law,907832666,jswa666@uni.ca
+Euan,Lozano,2,Nursing,690129491,eloz491@uni.ca
+Nana,Cross,1,Chemistry,124391079,ncro079@uni.ca
+Ameer,Armstrong,2,French,442217217,aarm217@uni.ca
+Georgiana,Mcgowan,1,Music,720638985,gmcg985@uni.ca
+Maxim,Gallegos,3,Nursing,440950504,mgal504@uni.ca
+Macy,Singh,4,Mechnical Eng.,241112795,msin795@uni.ca
+Declan,Shah,3,Chemistry,556291118,dsha118@uni.ca
+Arjun,Richard,3,Philosophy,770499147,aric147@uni.ca
+Tristan,Rowe,4,Philosophy,741272670,trow670@uni.ca
+Usman,Dale,4,Biology,822701674,udal674@uni.ca
+Tiago,Shah,3,Psychology,924967446,tsha446@uni.ca
+Julie,Mcguire,3,English,395230200,jmcg200@uni.ca
+Aidan,Dyer,1,Chemical Eng.,701996734,adye734@uni.ca
+Ameer,Fletcher,2,Chemical Eng.,826239015,afle015@uni.ca
+Carol,House,1,Chemical Eng.,974270735,chou735@uni.ca
+Raees,Chan,4,Nursing,962315508,rcha508@uni.ca
+Tiago,Wiley,4,Computer Science,728133640,twil640@uni.ca
+Nicole,Waters,2,Dance,776949276,nwat276@uni.ca
+Rodney,Meza,1,Chemical Eng.,388058137,rmez137@uni.ca
+Harry,Mcgowan,3,Mechnical Eng.,907034287,hmcg287@uni.ca
+Nana,Rowland,1,Dance,681061783,nrow783@uni.ca
+Philippa,Rowe,1,Law,191754489,prow489@uni.ca
+Camilla,Logan,3,Dance,900975552,clog552@uni.ca
+Muhammad,Gilmore,4,Chemistry,353369358,mgil358@uni.ca
+Bernard,Adkins,4,Chemical Eng.,274239699,badk699@uni.ca
+Nataniel,Hilton,2,Dance,123776790,nhil790@uni.ca
+Katrina,Trujill,2,Electrical Eng.,324848391,ktru391@uni.ca
+Safiyyah,Vaughan,4,Law,613846019,svau019@uni.ca
+Bernard,Lyons,3,Chemistry,418219649,blyo649@uni.ca
+Muhammed,Sharpe,3,Chemical Eng.,827278962,msha962@uni.ca
+Alivia,Hardin,3,English,618190005,ahar005@uni.ca
+Nana,Waters,4,Physics,333305259,nwat259@uni.ca
+Yaseen,Conway,1,Mechnical Eng.,441780821,ycon821@uni.ca
+Diane,Carey,2,Law,372806737,dcar737@uni.ca
+Donna,Ibarra,2,Music,703789258,diba258@uni.ca
+Maxim,Reynolds,3,Law,583667766,mrey766@uni.ca
+Mustafa,Gilmore,3,Mathematics,410780570,mgil570@uni.ca
+Macy,Norris,1,Law,864752702,mnor702@uni.ca
+Jesse,Bruce,4,Chemistry,987060918,jbru918@uni.ca
+Mustafa,Carey,4,Dance,268596931,mcar931@uni.ca
+Brendon,Wolf,2,French,747934974,bwol974@uni.ca
+Ezekiel,Kemp,1,Philosophy,733761031,ekem031@uni.ca
+Carter,Wiley,2,Computer Science,240022923,cwil923@uni.ca
+Lea,Carpenter,2,Dance,614937923,lcar923@uni.ca
+Kimberley,Logan,2,Physics,298744783,klog783@uni.ca
+Lenny,Lyons,3,English,253321207,llyo207@uni.ca
+Keenan,Buck,3,Biology,235609328,kbuc328@uni.ca
+Davina,Golden,3,Physics,120733254,dgol254@uni.ca
+Ridwan,Silva,4,English,319047529,rsil529@uni.ca
+Brett,Cantrell,3,Civil Eng.,675499955,bcan955@uni.ca
+Henrietta,Trujill,4,Chemical Eng.,690306921,htru921@uni.ca
+Tomos,Mcgowan,4,English,670231004,tmcg004@uni.ca
+Elisha,Norris,1,Dance,416916099,enor099@uni.ca
+Zane,Newman,4,Mechnical Eng.,490886902,znew902@uni.ca
+Darcie,Camacho,4,Biology,382126675,dcam675@uni.ca
+Georgiana,Shaffer,1,Music,180816761,gsha761@uni.ca
+Scott,Trevino,3,Chemistry,796534443,stre443@uni.ca
+Kyle,Sharpe,2,Chemical Eng.,825842881,ksha881@uni.ca
+Saul,Riley,4,French,991779058,sril058@uni.ca
+Tiago,Golden,2,Chemistry,979002099,tgol099@uni.ca
+Rodney,Trevino,3,Philosophy,746876756,rtre756@uni.ca
+Tasnim,Newman,2,Electrical Eng.,781032289,tnew289@uni.ca
+Davina,Franklin,3,Civil Eng.,797392987,dfra987@uni.ca
+Maliha,Foster,1,Chemical Eng.,873899748,mfos748@uni.ca
+India,Bell,4,Chemical Eng.,142038491,ibel491@uni.ca
+Usman,Dyer,1,Electrical Eng.,209880428,udye428@uni.ca
+Carol,Hilton,2,Psychology,564697235,chil235@uni.ca
+Aran,Trujill,4,Chemistry,286039573,atru573@uni.ca
+Maxim,Summers,3,Mechnical Eng.,877784908,msum908@uni.ca
+Jesse,Paul,1,English,367110851,jpau851@uni.ca
+Elisha,Jacobson,1,Computer Science,883726110,ejac110@uni.ca
+Lara,Mcgowan,2,English,365289747,lmcg747@uni.ca
+Julie,Rowland,4,Mathematics,820228688,jrow688@uni.ca
+Carter,Singh,2,Chemistry,831492794,csin794@uni.ca
+Muhammed,Newman,1,Nursing,970963495,mnew495@uni.ca
+Lara,Gilmore,2,Electrical Eng.,750639902,lgil902@uni.ca
+Scott,Gibbons,1,Mathematics,641885490,sgib490@uni.ca
+Nicole,Wolf,1,Civil Eng.,132118777,nwol777@uni.ca
+Yaseen,Bruce,4,Mechnical Eng.,421920680,ybru680@uni.ca
+Lara,Ibarra,1,Nursing,458211851,liba851@uni.ca
+Donna,James,3,Civil Eng.,575567062,djam062@uni.ca
+Euan,Palmer,1,English,516606737,epal737@uni.ca
+Raees,Charles,4,Mechnical Eng.,387976899,rcha899@uni.ca
+Nora,Swanson,3,Philosophy,361201291,nswa291@uni.ca
+Fahad,Fletcher,2,Electrical Eng.,372240160,ffle160@uni.ca
+Usman,House,1,Mechnical Eng.,125838247,uhou247@uni.ca
+Lenny,Bowen,2,Mechnical Eng.,882050842,lbow842@uni.ca
+Vinnie,Burns,1,Computer Science,834358664,vbur664@uni.ca
+Euan,Mcguire,1,English,763881951,emcg951@uni.ca
+Tomos,Shah,4,Electrical Eng.,862281820,tsha820@uni.ca
+Ridwan,Silva,1,Mathematics,439307822,rsil822@uni.ca
+Herbie,Rowland,4,Physics,743859920,hrow920@uni.ca
+Phyllis,Jenkins,1,Mechnical Eng.,690646630,pjen630@uni.ca
+Harry,Maldonado,2,Mechnical Eng.,254129803,hmal803@uni.ca
+Philippa,Rowe,3,Physics,477557378,prow378@uni.ca
+Raees,Hendrix,3,Physics,306919359,rhen359@uni.ca
+Blaine,Curtis,1,Mechnical Eng.,413033177,bcur177@uni.ca
+Mckenzie,Shah,3,Computer Science,155251397,msha397@uni.ca
+Mckenzie,Roach,2,Chemical Eng.,435169436,mroa436@uni.ca
+Pablo,Charles,1,Nursing,377794245,pcha245@uni.ca
+Arjun,House,1,Chemistry,536978318,ahou318@uni.ca
+Raees,Guerrero,3,English,298595659,rgue659@uni.ca
+Carol,Dale,1,Physics,199188218,cdal218@uni.ca
+Bernard,Fox,3,Biology,908406003,bfox003@uni.ca
+Davina,Glenn,4,Music,633060036,dgle036@uni.ca
+Zane,Ibarra,1,Chemical Eng.,505578917,ziba917@uni.ca
+Mustafa,Singh,1,Psychology,602117622,msin622@uni.ca
+Rayhan,Dyer,2,Chemical Eng.,678374752,rdye752@uni.ca
+Raees,Norris,4,Biology,527421001,rnor001@uni.ca
+Henrietta,Chang,3,Psychology,987329091,hcha091@uni.ca
+Scott,Rowe,1,Mathematics,663178780,srow780@uni.ca
+Herbie,Charles,4,Civil Eng.,755590813,hcha813@uni.ca
+Elisha,Swanson,4,Mechnical Eng.,809410779,eswa779@uni.ca
+Fatimah,Marsh,2,Dance,443540125,fmar125@uni.ca
+Alivia,Mendoza,4,Music,767369520,amen520@uni.ca
+Imran,Chang,4,Mathematics,571373658,icha658@uni.ca
+Nora,Griffith,3,Computer Science,564163142,ngri142@uni.ca
+Euan,Jenkins,2,Chemistry,987925503,ejen503@uni.ca
+Jayson,Rowland,1,Civil Eng.,568672902,jrow902@uni.ca
+Alivia,Foster,1,Chemical Eng.,375449214,afos214@uni.ca
+India,Le,3,Chemistry,425452310,ile310@uni.ca
+Jayson,Lyons,4,Civil Eng.,784497586,jlyo586@uni.ca
+Nora,Ortiz,4,Philosophy,211006592,nort592@uni.ca
+Davina,Oconnor,1,Law,270453801,doco801@uni.ca
+Bernard,Riley,3,Chemical Eng.,721121565,bril565@uni.ca
+Tristan,Oconnor,4,Philosophy,228593047,toco047@uni.ca
+Philippa,Mcgowan,4,Mechnical Eng.,315651562,pmcg562@uni.ca
+Raees,Cross,2,Electrical Eng.,561671886,rcro886@uni.ca
+Lola,Knowles,2,Civil Eng.,259347057,lkno057@uni.ca
+Keyaan,Hilton,1,French,522642146,khil146@uni.ca
+Tristan,Gilmore,1,Dance,444073521,tgil521@uni.ca
+Muhammed,Conway,2,Chemical Eng.,215497610,mcon610@uni.ca
+Keyaan,Trevino,2,Chemical Eng.,153471436,ktre436@uni.ca
+Savannah,Horne,1,Electrical Eng.,373602549,shor549@uni.ca
+Saul,Foster,4,Philosophy,189482426,sfos426@uni.ca
+Tasnim,Carey,3,Chemistry,958347894,tcar894@uni.ca
+Aisha,Fox,1,Philosophy,470104020,afox020@uni.ca
+Zane,Griffith,1,Mechnical Eng.,906350637,zgri637@uni.ca
+Safiyyah,Buck,4,Psychology,152376874,sbuc874@uni.ca
+Marnie,Golden,1,Nursing,293784870,mgol870@uni.ca
+Malika,Norris,2,Philosophy,816086595,mnor595@uni.ca
+Henrietta,Rowe,2,Dance,812837807,hrow807@uni.ca
+Tomos,Collins,4,Mechnical Eng.,786509061,tcol061@uni.ca
+Mae,Sampson,3,Nursing,533261790,msam790@uni.ca
+Blaine,Carpenter,3,Law,313117749,bcar749@uni.ca
+Henrietta,Nichols,1,Psychology,116751875,hnic875@uni.ca
+Nana,Collins,4,Mechnical Eng.,937527687,ncol687@uni.ca
+Brett,Hardin,4,French,246468765,bhar765@uni.ca
+Jayson,Lindsay,4,Dance,315056785,jlin785@uni.ca
+Roosevelt,Armstrong,1,Nursing,574556882,rarm882@uni.ca
+Eesa,Armstrong,3,Chemical Eng.,219474153,earm153@uni.ca
+Maliha,Mcconnell,3,Law,721362852,mmcc852@uni.ca
+Philippa,Sampson,4,Music,623923428,psam428@uni.ca
+Carol,Lyons,3,Dance,380107739,clyo739@uni.ca
+Julie,Ray,3,Computer Science,645397235,jray235@uni.ca
+Gethin,Trevino,3,Music,592408700,gtre700@uni.ca
+Darcie,Nichols,3,Electrical Eng.,833425402,dnic402@uni.ca
+Fatimah,Mendoza,1,Civil Eng.,829016130,fmen130@uni.ca
+Lara,Bruce,4,Civil Eng.,301141701,lbru701@uni.ca
+Diane,Baldwin,2,Chemical Eng.,743836683,dbal683@uni.ca
+Darcie,Silva,4,Music,468826100,dsil100@uni.ca
+Julie,Oconnor,4,Mechnical Eng.,869668270,joco270@uni.ca
+Mustafa,Hilton,4,Civil Eng.,292557544,mhil544@uni.ca
+Jayson,Rowland,3,Philosophy,658730219,jrow219@uni.ca
+Kimberley,Mcgowan,1,Mechnical Eng.,648171532,kmcg532@uni.ca
+Elif,Jenkins,4,Nursing,436427931,ejen931@uni.ca
+Ezekiel,Roach,3,Electrical Eng.,374723740,eroa740@uni.ca
+Katrina,Cross,4,Music,955034386,kcro386@uni.ca
+Aisha,Norris,1,Chemical Eng.,814036620,anor620@uni.ca
+Nataniel,Pittman,1,Physics,145410541,npit541@uni.ca
+Davina,Carey,4,Mechnical Eng.,741487200,dcar200@uni.ca
+Gethin,Hammond,1,English,344961898,gham898@uni.ca
+Tasneem,Guerrero,4,English,179634325,tgue325@uni.ca
+Diane,Fletcher,3,Computer Science,404794010,dfle010@uni.ca
+Elisha,James,3,French,184006895,ejam895@uni.ca
+India,Hilton,3,Electrical Eng.,339873786,ihil786@uni.ca
+Aidan,Paul,2,Mechnical Eng.,418158361,apau361@uni.ca
+Lea,Kemp,2,Dance,890878120,lkem120@uni.ca
+Andrew,Charles,1,Philosophy,617749692,acha692@uni.ca
+Georgiana,Riley,4,Chemical Eng.,750369360,gril360@uni.ca
+Tiago,Lindsay,1,Civil Eng.,145726183,tlin183@uni.ca
+Iqra,Keith,4,Biology,670591619,ikei619@uni.ca
+Mustafa,Bowen,2,Chemical Eng.,950207159,mbow159@uni.ca
+Philippa,Cole,1,Mathematics,140772292,pcol292@uni.ca
+Savannah,Swanson,4,Civil Eng.,183107600,sswa600@uni.ca
+Malika,Ponce,3,Physics,245267836,mpon836@uni.ca
+Marnie,Shaffer,3,French,979922044,msha044@uni.ca
+Camilla,Summers,3,Chemistry,912493444,csum444@uni.ca
+Elisha,Golden,4,Dance,471215035,egol035@uni.ca
+Keyaan,Ortiz,1,Mathematics,828997506,kort506@uni.ca
+Blaine,Johnson,4,French,325798268,bjoh268@uni.ca
+Harry,Horne,4,French,923588693,hhor693@uni.ca
+Shania,Shaffer,1,Chemistry,783165886,ssha886@uni.ca
+Trinity,Waters,2,Electrical Eng.,601140213,twat213@uni.ca
+Pablo,Figueroa,4,Chemistry,964150859,pfig859@uni.ca
+Brendon,Hendrix,4,Chemical Eng.,860051545,bhen545@uni.ca
+Aran,Logan,4,English,697094411,alog411@uni.ca
+Zane,Armstrong,3,French,837014046,zarm046@uni.ca
+Carter,Gardner,3,Dance,586736875,cgar875@uni.ca
+Nana,Dyer,2,Mechnical Eng.,170034859,ndye859@uni.ca
+Pablo,Mendoza,1,Biology,203197773,pmen773@uni.ca
+Tasneem,Gardner,2,Chemical Eng.,285397615,tgar615@uni.ca
+Keenan,Jenkins,4,Chemistry,700147897,kjen897@uni.ca
+Usman,Fowler,1,Philosophy,703338358,ufow358@uni.ca
+Tristan,Franklin,3,Dance,209647040,tfra040@uni.ca
+India,Sampson,1,Mechnical Eng.,629734829,isam829@uni.ca
+Katelyn,Norris,3,Chemical Eng.,202294546,knor546@uni.ca
+Ezekiel,Daugherty,3,Computer Science,389306579,edau579@uni.ca
+Scott,Golden,2,Computer Science,210445078,sgol078@uni.ca
+Keyaan,Figueroa,1,Law,452290619,kfig619@uni.ca
+Fatimah,Trevino,3,Mechnical Eng.,290581462,ftre462@uni.ca
+Sara,Rowe,1,Psychology,280886921,srow921@uni.ca
+Rosa,Foster,3,French,256183420,rfos420@uni.ca
+Emma,Palmer,1,Nursing,624501548,epal548@uni.ca
+Macy,Vaughan,1,Computer Science,725271562,mvau562@uni.ca
+Harry,Jacobson,2,Electrical Eng.,413185182,hjac182@uni.ca
+Nicole,Bruce,1,Biology,130192269,nbru269@uni.ca
+Celine,Pittman,4,English,394351153,cpit153@uni.ca
+Zane,Decker,2,Civil Eng.,741290553,zdec553@uni.ca
+Muhammed,Mendoza,1,Computer Science,213717762,mmen762@uni.ca
+Safiyyah,Sharpe,3,Dance,728469630,ssha630@uni.ca
+Safiyyah,Lozano,4,Chemical Eng.,312898992,sloz992@uni.ca
+Carter,Cross,3,Law,946210609,ccro609@uni.ca
+Carol,Lyons,2,Physics,555162007,clyo007@uni.ca
+Carol,Lindsay,4,Philosophy,545405373,clin373@uni.ca
+Alivia,Lara,1,Law,184771125,alar125@uni.ca
+Davina,Carpenter,4,Mathematics,577332517,dcar517@uni.ca
+Saarah,Cole,1,Music,741680365,scol365@uni.ca
+Muhammad,Hendrix,2,Dance,972468401,mhen401@uni.ca
+Shania,Ray,3,Psychology,626285527,sray527@uni.ca
+Lenny,Cantrell,3,Civil Eng.,233177559,lcan559@uni.ca
+Tasnim,Jenkins,1,Computer Science,700229396,tjen396@uni.ca
+Roosevelt,Morales,1,Electrical Eng.,118304755,rmor755@uni.ca
+Alina,Sharpe,1,Chemistry,914533771,asha771@uni.ca
+Andrew,Hilton,4,Mechnical Eng.,217860871,ahil871@uni.ca
+Macy,Marshall,4,Philosophy,533750409,mmar409@uni.ca
+Muhammad,Ray,3,Music,676440009,mray009@uni.ca
+Gethin,Hardin,2,Electrical Eng.,369687755,ghar755@uni.ca
+Ezekiel,Guerrero,2,Nursing,799652814,egue814@uni.ca
+Usman,Trujill,3,Law,719902987,utru987@uni.ca
+Blaine,Golden,2,Chemistry,834532009,bgol009@uni.ca
+Shania,Gardner,4,English,180115529,sgar529@uni.ca
+Blaine,Chan,4,Nursing,785929422,bcha422@uni.ca
+Shania,Fox,4,Psychology,716335447,sfox447@uni.ca
+Savannah,Hayes,4,Music,394569059,shay059@uni.ca
+Harry,Ray,2,Biology,118127589,hray589@uni.ca
+Ezekiel,Richard,3,Computer Science,970666029,eric029@uni.ca
+Dawn,Dyer,4,English,623680745,ddye745@uni.ca
+Raees,Chan,2,French,491260623,rcha623@uni.ca
+Kimberley,Sharpe,4,Philosophy,758070411,ksha411@uni.ca
+Ameer,Guerrero,4,Civil Eng.,987633722,ague722@uni.ca
+Muhammad,Palmer,4,Nursing,970743754,mpal754@uni.ca
+India,Foster,4,French,963234727,ifos727@uni.ca
+Ezekiel,Adkins,2,Electrical Eng.,412613236,eadk236@uni.ca
+Harry,Armstrong,1,Mathematics,161077274,harm274@uni.ca
+Malika,Sharpe,2,Psychology,381624571,msha571@uni.ca
+Lola,Hammond,2,Dance,747113065,lham065@uni.ca
+Alana,Kemp,1,Chemistry,115332146,akem146@uni.ca
+Andrew,Jacobson,4,Nursing,955907087,ajac087@uni.ca
+Katerina,Rowe,2,Physics,998333582,krow582@uni.ca
+Arjun,Hardin,1,Physics,331068260,ahar260@uni.ca
+Roosevelt,Knowles,4,Nursing,751203848,rkno848@uni.ca
+Jermaine,Le,3,Philosophy,203256755,jle755@uni.ca
+Andrew,Griffith,2,Electrical Eng.,775565624,agri624@uni.ca
+Mustafa,Pittman,2,Dance,542620783,mpit783@uni.ca
+Aidan,Foster,3,French,333293529,afos529@uni.ca
+Savannah,Burns,4,Biology,312433073,sbur073@uni.ca
+Alana,Schultz,4,Psychology,772282167,asch167@uni.ca
+Tristan,Schultz,2,Civil Eng.,159927724,tsch724@uni.ca
+Tomos,Ibarra,2,Electrical Eng.,926192255,tiba255@uni.ca
+Mckenzie,Mcgowan,2,Civil Eng.,510991012,mmcg012@uni.ca
+Walter,Mcguire,4,Biology,132194460,wmcg460@uni.ca
+Keenan,Adkins,2,Chemical Eng.,901825175,kadk175@uni.ca
+Rodney,Mcguire,2,Mechnical Eng.,823916809,rmcg809@uni.ca
+Nicole,Lara,3,Psychology,967904900,nlar900@uni.ca
+Scott,Knowles,4,Mathematics,922987003,skno003@uni.ca
+Aidan,Shaffer,2,Chemistry,630644993,asha993@uni.ca
+Malika,Griffith,4,Computer Science,603509133,mgri133@uni.ca
+Donna,Trujill,4,Dance,696723618,dtru618@uni.ca
+Nataniel,Pittman,3,Nursing,135468563,npit563@uni.ca
+Lenny,Fletcher,1,Electrical Eng.,672507369,lfle369@uni.ca
+Keenan,Schultz,1,Physics,103830939,ksch939@uni.ca
+Antonia,Hilton,3,Dance,538121043,ahil043@uni.ca
+Pablo,Mcgowan,2,Law,616009793,pmcg793@uni.ca
+Georgiana,Golden,3,French,310128729,ggol729@uni.ca
+Bernard,Palmer,4,Electrical Eng.,979563789,bpal789@uni.ca
+Gethin,Jacobson,2,Mathematics,442685081,gjac081@uni.ca
+Jesse,Daugherty,2,Electrical Eng.,541003861,jdau861@uni.ca
+Harry,Wolf,4,Psychology,736504588,hwol588@uni.ca
+Diane,Roach,3,Chemistry,636195359,droa359@uni.ca
+Raees,Oconnor,4,Music,712072069,roco069@uni.ca
+Fahad,Schultz,4,French,441373474,fsch474@uni.ca
+Euan,Baldwin,1,English,908482761,ebal761@uni.ca
+Nataniel,Maldonado,1,Law,205873901,nmal901@uni.ca
+Lea,Fletcher,3,Civil Eng.,154993302,lfle302@uni.ca
+Nicole,Riley,4,Electrical Eng.,177579040,nril040@uni.ca
+Elisha,Ibarra,1,Mechnical Eng.,891071292,eiba292@uni.ca
+Tasneem,Hammond,2,Biology,749188605,tham605@uni.ca
+Euan,Hilton,1,Biology,820123426,ehil426@uni.ca
+Katerina,Gallegos,2,Nursing,561104557,kgal557@uni.ca
+Nicole,Marsh,2,French,895290432,nmar432@uni.ca
+Muhammed,Mcconnell,1,Biology,775282445,mmcc445@uni.ca
+Jessica,Ortiz,2,Music,106541160,jort160@uni.ca
+Tasnim,Norris,4,Dance,329629796,tnor796@uni.ca
+Phyllis,Vaughan,4,Physics,102592992,pvau992@uni.ca
+Jayson,Griffith,4,Law,185337868,jgri868@uni.ca
+Blaine,Silva,1,Philosophy,815066515,bsil515@uni.ca
+Safiyyah,Nichols,1,Chemical Eng.,314387381,snic381@uni.ca
+Blaine,Richard,1,Chemical Eng.,566763646,bric646@uni.ca
+Julie,Logan,4,Philosophy,994465084,jlog084@uni.ca
+Camilla,Logan,3,English,114360225,clog225@uni.ca
+Mckenzie,Logan,1,English,505251486,mlog486@uni.ca
+Tomos,Ibarra,2,Mechnical Eng.,564790484,tiba484@uni.ca
+Pablo,Ray,1,Psychology,194440994,pray994@uni.ca
+Aidan,Ortiz,1,Music,942473480,aort480@uni.ca
+Alina,Rocha,1,Electrical Eng.,442982586,aroc586@uni.ca
+Lea,Sampson,3,Mechnical Eng.,973121219,lsam219@uni.ca
+Katerina,Wolf,3,Chemistry,457166707,kwol707@uni.ca
+Nicole,Silva,2,Mechnical Eng.,755905288,nsil288@uni.ca
+Alana,Mcconnell,3,Philosophy,253512314,amcc314@uni.ca
+Maxim,Bell,2,English,415633492,mbel492@uni.ca
+Walter,Logan,3,French,191918644,wlog644@uni.ca
+Addie,Conway,3,Chemical Eng.,311594090,acon090@uni.ca
+Blaine,Buck,1,Chemical Eng.,176143013,bbuc013@uni.ca
+Ridwan,Rowe,2,Physics,588103329,rrow329@uni.ca
+Mustafa,Chang,1,Civil Eng.,119884095,mcha095@uni.ca
+Malika,Palmer,1,French,905795050,mpal050@uni.ca
+Nicole,Johnson,4,Computer Science,314924779,njoh779@uni.ca
+Keenan,Cole,4,Music,233479045,kcol045@uni.ca
+Diane,Hammond,1,Nursing,944425947,dham947@uni.ca
+Philippa,Carpenter,1,Law,794957662,pcar662@uni.ca
+Tasneem,Golden,2,French,616132373,tgol373@uni.ca
+Vinnie,Carpenter,1,Physics,433954241,vcar241@uni.ca
+Rosa,Newman,1,Psychology,172617524,rnew524@uni.ca
+Harry,Le,1,Music,689167679,hle679@uni.ca
+Dawn,Waters,3,Chemistry,400995765,dwat765@uni.ca
+Declan,Mendoza,4,Chemical Eng.,400667803,dmen803@uni.ca
+Harry,Vaughan,2,Biology,679935040,hvau040@uni.ca
+Declan,Jenkins,1,Computer Science,663869346,djen346@uni.ca
+Arjun,Conway,4,Chemistry,722121195,acon195@uni.ca
+Brendon,Ibarra,3,English,762782986,biba986@uni.ca
+Emma,Mcguire,1,Mechnical Eng.,878202512,emcg512@uni.ca
+Philippa,Norris,4,Psychology,757603685,pnor685@uni.ca
+Lola,Gardner,2,Biology,268759978,lgar978@uni.ca
+Jayson,Carey,4,Physics,653867712,jcar712@uni.ca
+Darcie,Fox,4,Biology,660264156,dfox156@uni.ca
+Mckenzie,Palmer,4,Civil Eng.,851157916,mpal916@uni.ca
+Aidan,Riley,2,Chemistry,482866083,aril083@uni.ca
+Tiago,Cantrell,2,Chemical Eng.,399508307,tcan307@uni.ca
+Jayson,Horne,4,Mechnical Eng.,404294530,jhor530@uni.ca
+Nora,Fox,1,Civil Eng.,583984623,nfox623@uni.ca
+Tiago,Trevino,2,Law,987746422,ttre422@uni.ca
+Tomos,Swanson,2,Chemistry,845657501,tswa501@uni.ca
+Mckenzie,Summers,2,Chemistry,155405962,msum962@uni.ca
+Lola,Bell,1,Biology,739274708,lbel708@uni.ca
+Rodney,Buck,3,Mechnical Eng.,990465705,rbuc705@uni.ca
+Kimberley,Fowler,3,Psychology,356257701,kfow701@uni.ca
+Tasnim,Jacobson,4,Philosophy,501019136,tjac136@uni.ca
+Nicole,Trujill,4,Civil Eng.,127171555,ntru555@uni.ca
+Carter,Ibarra,3,Music,405552475,ciba475@uni.ca
+Walter,Bowen,4,English,681476508,wbow508@uni.ca
+Malika,Collins,3,Biology,996631408,mcol408@uni.ca
+Safiyyah,Charles,1,Physics,311657461,scha461@uni.ca
+Fatimah,Gibbons,4,French,472763092,fgib092@uni.ca
+Tasnim,Fletcher,3,Electrical Eng.,346693971,tfle971@uni.ca
+Zane,Palmer,4,Psychology,312019701,zpal701@uni.ca
+Antonia,Mcguire,2,Psychology,743567229,amcg229@uni.ca
+Nicole,Schultz,4,Music,286669913,nsch913@uni.ca
+Emma,Ibarra,1,Physics,822240205,eiba205@uni.ca
+India,Maldonado,1,Electrical Eng.,516572659,imal659@uni.ca
+Carter,Cross,3,Dance,241882999,ccro999@uni.ca
+Rodney,Cross,2,Psychology,886736788,rcro788@uni.ca
+Celine,Norris,3,Mechnical Eng.,939589989,cnor989@uni.ca
+Marnie,House,3,Physics,661485071,mhou071@uni.ca
+Euan,Lozano,2,Biology,764738644,eloz644@uni.ca
+Elif,Hendrix,4,Civil Eng.,290404458,ehen458@uni.ca
+Andrew,House,1,Civil Eng.,205489762,ahou762@uni.ca
+Nora,Ponce,4,Nursing,829377257,npon257@uni.ca
+India,James,3,English,159236632,ijam632@uni.ca
+Phyllis,Armstrong,4,Law,941191987,parm987@uni.ca
+India,Marshall,1,Chemistry,736174210,imar210@uni.ca
+Eesa,Kemp,4,Philosophy,458892500,ekem500@uni.ca
+Emma,Curtis,1,Philosophy,890565080,ecur080@uni.ca
+Brett,Sharpe,3,Music,287565179,bsha179@uni.ca
+Jayson,Hayes,3,Mathematics,905538406,jhay406@uni.ca
+Jermaine,Figueroa,3,French,660740825,jfig825@uni.ca
+Arjun,Rowe,1,Mathematics,845120341,arow341@uni.ca
+Walter,Sampson,1,French,871163408,wsam408@uni.ca
+Blaine,Daugherty,2,French,594064177,bdau177@uni.ca
+Ezekiel,Trujill,2,Mechnical Eng.,974810606,etru606@uni.ca
+Imran,James,2,Electrical Eng.,253900741,ijam741@uni.ca
+Jayson,Schultz,1,Nursing,850119161,jsch161@uni.ca
+Savannah,Nichols,3,Nursing,990480912,snic912@uni.ca
+Maxim,Oconnor,1,Mechnical Eng.,958916766,moco766@uni.ca
+Katelyn,Rowland,4,Mathematics,316149739,krow739@uni.ca
+Herbie,Golden,4,Psychology,192896316,hgol316@uni.ca
+Aran,Armstrong,1,Physics,661057267,aarm267@uni.ca
+Nataniel,Carpenter,4,French,850039502,ncar502@uni.ca
+Maxim,Fletcher,2,Philosophy,819206789,mfle789@uni.ca
+Henrietta,House,3,Psychology,629924383,hhou383@uni.ca
+Georgiana,Cantrell,3,Mechnical Eng.,850728835,gcan835@uni.ca
+Keyaan,James,3,Biology,551823692,kjam692@uni.ca
+Fatimah,Gilmore,2,Biology,112873354,fgil354@uni.ca
+Walter,Fowler,4,Law,784070950,wfow950@uni.ca
+Fatimah,Daugherty,2,Civil Eng.,566984862,fdau862@uni.ca
+Declan,Jenkins,4,Philosophy,227234184,djen184@uni.ca
+Tasnim,Lozano,3,Biology,831380056,tloz056@uni.ca
+Nora,Nichols,2,Electrical Eng.,655237203,nnic203@uni.ca
+Keyaan,Knowles,4,English,268094018,kkno018@uni.ca
+Lenny,Chan,1,Nursing,388934838,lcha838@uni.ca
+Marnie,Fletcher,4,English,514350602,mfle602@uni.ca
+Salman,Mcconnell,1,Civil Eng.,533190036,smcc036@uni.ca
+Philippa,Mcconnell,2,Chemistry,499144753,pmcc753@uni.ca
+Gethin,Decker,4,Biology,567877914,gdec914@uni.ca
+Katelyn,Ponce,4,Chemistry,190998720,kpon720@uni.ca
+Lenny,Cantrell,1,Computer Science,469510630,lcan630@uni.ca
+Antonia,Swanson,3,Electrical Eng.,882006012,aswa012@uni.ca
+Jermaine,Marsh,4,French,395422373,jmar373@uni.ca
+Declan,Norris,1,Law,861331354,dnor354@uni.ca
+Katelyn,Roach,2,Electrical Eng.,491684053,kroa053@uni.ca
+Pablo,Guerrero,4,Computer Science,518671168,pgue168@uni.ca
+Philippa,Riley,4,English,174494472,pril472@uni.ca
+Ameer,Sharpe,3,English,581639903,asha903@uni.ca
+Gethin,Dale,4,Music,115081790,gdal790@uni.ca
+Keyaan,Rowe,3,Computer Science,525250461,krow461@uni.ca
+Roosevelt,Morales,3,Psychology,669442768,rmor768@uni.ca
+Euan,Le,2,Electrical Eng.,617711212,ele212@uni.ca
+Blaine,Richard,4,Law,480413584,bric584@uni.ca
+Davina,Griffith,4,Chemistry,727421007,dgri007@uni.ca
+Alivia,Ray,1,Biology,404680010,aray010@uni.ca
+Katerina,Keith,1,Civil Eng.,574386144,kkei144@uni.ca
+Mustafa,Lara,1,Philosophy,215169938,mlar938@uni.ca
+Trinity,James,1,Psychology,886594437,tjam437@uni.ca
+Scott,Schultz,3,Psychology,810723748,ssch748@uni.ca
+Jayson,Hilton,1,Electrical Eng.,688285762,jhil762@uni.ca
+Brett,Bruce,4,Music,178042698,bbru698@uni.ca
+Brendon,Singh,2,English,283120585,bsin585@uni.ca
+Scott,Lozano,4,Physics,657376127,sloz127@uni.ca
+Ridwan,Swanson,2,Civil Eng.,195561820,rswa820@uni.ca
+Antonia,Summers,1,Physics,956939716,asum716@uni.ca
+Gethin,James,1,Mechnical Eng.,149900391,gjam391@uni.ca
+Diane,Burns,2,Chemistry,814931859,dbur859@uni.ca
+Iqra,Guerrero,2,French,860007890,igue890@uni.ca
+Walter,Conway,2,Chemical Eng.,450449690,wcon690@uni.ca
+Fatimah,Franklin,4,Civil Eng.,807769955,ffra955@uni.ca
+Shania,Shah,1,Psychology,225095082,ssha082@uni.ca
+Malika,Summers,1,Nursing,857433512,msum512@uni.ca
+Imran,Glenn,4,English,303236616,igle616@uni.ca
+Philippa,Cantrell,2,Biology,569727514,pcan514@uni.ca
+Keyaan,Gardner,4,Chemistry,806629499,kgar499@uni.ca
+Herbie,Carey,3,Music,352937180,hcar180@uni.ca
+Safiyyah,Wiley,1,Chemistry,422133654,swil654@uni.ca
+Declan,Norris,1,Chemical Eng.,610443947,dnor947@uni.ca
+Zane,Hardin,4,Civil Eng.,207179605,zhar605@uni.ca
+Diane,Bruce,4,Philosophy,938225418,dbru418@uni.ca
+Roosevelt,Franklin,3,Biology,648602452,rfra452@uni.ca
+Carter,Marsh,2,Dance,702840722,cmar722@uni.ca
+Ameer,Hendrix,1,Law,375990820,ahen820@uni.ca
+Celine,Waters,3,Civil Eng.,799792122,cwat122@uni.ca
+Herbie,Reynolds,3,English,101099196,hrey196@uni.ca
+Ridwan,Swanson,1,Nursing,272600803,rswa803@uni.ca
+Katerina,Trujill,1,English,389091147,ktru147@uni.ca
+Safiyyah,Vaughan,4,Psychology,824172559,svau559@uni.ca
+Brendon,Ibarra,4,Law,796020922,biba922@uni.ca
+Ridwan,Oconnor,2,Biology,404329267,roco267@uni.ca
+Declan,Wolf,2,Mathematics,304656855,dwol855@uni.ca
+Dawn,Rowland,1,Mathematics,764351596,drow596@uni.ca
+Safiyyah,Guerrero,3,Philosophy,743308832,sgue832@uni.ca
+Carter,Ray,2,Electrical Eng.,349216159,cray159@uni.ca
+Tristan,Swanson,4,Biology,195305892,tswa892@uni.ca
+Muhammad,Golden,3,Nursing,944887252,mgol252@uni.ca
+Donna,Dyer,1,Chemistry,116147749,ddye749@uni.ca
+Andrew,Wolf,1,Computer Science,650521339,awol339@uni.ca
+Iqra,James,4,Chemical Eng.,736422109,ijam109@uni.ca
+Katerina,Schultz,1,Mechnical Eng.,285333772,ksch772@uni.ca
+Alivia,Singh,3,Psychology,318175060,asin060@uni.ca
+Raees,Knowles,3,Philosophy,938085048,rkno048@uni.ca
+Kyle,Cross,1,English,293295512,kcro512@uni.ca
+Tristan,Carey,2,Electrical Eng.,106645881,tcar881@uni.ca
+Iqra,James,4,Physics,299987054,ijam054@uni.ca
+Marnie,Knowles,4,Mechnical Eng.,753740737,mkno737@uni.ca
+Rayhan,Richard,3,Music,556301642,rric642@uni.ca
+Arjun,Rowland,3,French,685730021,arow021@uni.ca
+Elif,Knowles,3,English,447278259,ekno259@uni.ca
+Nana,Cole,3,English,398604475,ncol475@uni.ca
+Fahad,Glenn,3,French,289890894,fgle894@uni.ca
+Rodney,Baldwin,1,Chemistry,125914048,rbal048@uni.ca
+Eesa,Collins,2,Mechnical Eng.,422786800,ecol800@uni.ca
+Maxim,Ibarra,1,Mathematics,648745696,miba696@uni.ca
+Shania,Cantrell,2,Physics,238000337,scan337@uni.ca
+Safiyyah,Summers,2,Nursing,630516170,ssum170@uni.ca
+Yaseen,Decker,1,English,809103026,ydec026@uni.ca
+Imran,Bruce,3,Physics,257062270,ibru270@uni.ca
+Rosa,Singh,3,Psychology,472434679,rsin679@uni.ca
+Gethin,Bell,4,Music,908551920,gbel920@uni.ca
+Imran,Armstrong,3,English,688165850,iarm850@uni.ca
+Savannah,Johnson,2,Psychology,775365898,sjoh898@uni.ca
+Alivia,Singh,2,French,904038102,asin102@uni.ca
+Carol,Lara,4,Computer Science,738552755,clar755@uni.ca
+Shania,Carpenter,2,Philosophy,199730447,scar447@uni.ca
+Fatimah,Adkins,2,Mathematics,205503975,fadk975@uni.ca
+Alivia,Riley,1,Computer Science,590637197,aril197@uni.ca
+Lenny,Armstrong,1,Dance,393667650,larm650@uni.ca
+Eesa,Johnson,4,Chemical Eng.,988642179,ejoh179@uni.ca
+Carol,Waters,3,Nursing,631172704,cwat704@uni.ca
+Katelyn,Ibarra,4,Philosophy,994416909,kiba909@uni.ca
+Alina,Hardin,2,Music,509753882,ahar882@uni.ca
+Phyllis,Jenkins,1,Mathematics,265469481,pjen481@uni.ca
+Elisha,Bruce,4,Philosophy,598828569,ebru569@uni.ca
+Autumn,Lindsay,1,French,596786143,alin143@uni.ca
+Emma,Lara,1,Dance,373526660,elar660@uni.ca
+Yaseen,Horne,2,Biology,655907030,yhor030@uni.ca
+Raees,Carey,1,Chemical Eng.,761549120,rcar120@uni.ca
+Yaseen,Mendoza,3,French,130127358,ymen358@uni.ca
+Savannah,Adkins,1,Law,850350069,sadk069@uni.ca
+Jessica,Mendoza,3,Philosophy,235319192,jmen192@uni.ca
+Aisha,Mcgowan,4,Electrical Eng.,226863957,amcg957@uni.ca
+Kyle,Bell,1,Dance,411100979,kbel979@uni.ca
+Brendon,Roach,2,English,364161254,broa254@uni.ca
+Muhammed,Jenkins,3,Biology,726635020,mjen020@uni.ca
+Elif,Dale,2,Civil Eng.,154932862,edal862@uni.ca
+Savannah,Wiley,2,Electrical Eng.,844763603,swil603@uni.ca
+Nana,Bowen,3,Mechnical Eng.,778789987,nbow987@uni.ca
+Tristan,Johnson,2,English,273998976,tjoh976@uni.ca
+Keyaan,Marsh,4,Nursing,884943563,kmar563@uni.ca
+India,Paul,4,Chemistry,231198054,ipau054@uni.ca
+Aisha,Hendrix,1,Music,552543227,ahen227@uni.ca
+Tasneem,Rowe,4,Biology,847729752,trow752@uni.ca
+Kimberley,Maldonado,2,Biology,987726127,kmal127@uni.ca
+Tiago,Morales,2,Mechnical Eng.,267268251,tmor251@uni.ca
+Aran,Meza,3,Chemical Eng.,558865124,amez124@uni.ca
+Georgiana,Rowland,2,Dance,212000197,grow197@uni.ca
+Aisha,Mcguire,2,Law,645144720,amcg720@uni.ca
+Katerina,Le,1,Nursing,834222801,kle801@uni.ca
+Salman,Hilton,2,Mathematics,918392880,shil880@uni.ca
+Saarah,Waters,2,Chemistry,658260283,swat283@uni.ca
+Tomos,Guerrero,3,Mathematics,365072693,tgue693@uni.ca
+Dawn,Richard,1,French,334670706,dric706@uni.ca
+Fahad,Gardner,4,Civil Eng.,725158909,fgar909@uni.ca
+Blaine,Trevino,1,Mathematics,453699988,btre988@uni.ca
+Georgiana,Armstrong,1,Law,301269824,garm824@uni.ca
+Savannah,Charles,3,Nursing,284739964,scha964@uni.ca
+Lara,Swanson,4,Law,964834673,lswa673@uni.ca
+Euan,Lozano,3,Civil Eng.,697661429,eloz429@uni.ca
+Salman,Palmer,3,Philosophy,401718981,spal981@uni.ca
+Muhammed,House,4,Chemistry,533679623,mhou623@uni.ca
+Harry,Decker,1,Psychology,419420457,hdec457@uni.ca
+Elisha,Roach,2,Mechnical Eng.,810029853,eroa853@uni.ca
+Declan,Fox,3,Mechnical Eng.,779924560,dfox560@uni.ca
+Ezekiel,Hammond,2,Chemical Eng.,683065727,eham727@uni.ca
+Alina,Rocha,2,Mechnical Eng.,660023863,aroc863@uni.ca
+Muhammed,Curtis,4,Dance,457031902,mcur902@uni.ca
+Davina,Dale,4,Dance,869854823,ddal823@uni.ca
+Andrew,Cole,4,Civil Eng.,758859589,acol589@uni.ca
+India,Richard,2,Law,735191307,iric307@uni.ca
+Philippa,Lozano,3,Computer Science,409377814,ploz814@uni.ca
+Ridwan,Keith,4,Physics,534489613,rkei613@uni.ca
+Davina,Swanson,1,Electrical Eng.,691088209,dswa209@uni.ca
+Sara,Foster,2,Dance,982214936,sfos936@uni.ca
+Ameer,Hammond,2,Chemistry,948392409,aham409@uni.ca
+Tomos,Ibarra,3,Nursing,658742567,tiba567@uni.ca
+Katerina,Roach,4,Electrical Eng.,883089451,kroa451@uni.ca
+Harry,Dyer,1,English,467495243,hdye243@uni.ca
+Vinnie,Ibarra,1,Law,957600600,viba600@uni.ca
+Macy,Mcguire,1,Mechnical Eng.,301253783,mmcg783@uni.ca
+Camilla,Fox,1,Nursing,868940650,cfox650@uni.ca
+Harry,Mcguire,4,Music,401410289,hmcg289@uni.ca
+Shania,Trujill,4,English,246345140,stru140@uni.ca
+Nora,Norris,4,Chemistry,743431077,nnor077@uni.ca
+Gethin,Gilmore,2,Biology,920138869,ggil869@uni.ca
+Rayhan,Nichols,2,Chemical Eng.,106084111,rnic111@uni.ca
+Shania,Lara,3,Psychology,840114474,slar474@uni.ca
+Jesse,Figueroa,2,Electrical Eng.,991184471,jfig471@uni.ca
+Eesa,Maldonado,3,English,460235550,emal550@uni.ca
+Philippa,Foster,2,Electrical Eng.,915100441,pfos441@uni.ca
+Jessica,Dale,1,French,344176232,jdal232@uni.ca
+Camilla,Lara,3,English,758069232,clar232@uni.ca
+Brendon,Jacobson,2,Law,444298455,bjac455@uni.ca
+Iqra,Glenn,4,Biology,871372036,igle036@uni.ca
+Lea,Lindsay,2,Physics,583196338,llin338@uni.ca
+Maxim,Gallegos,1,Mathematics,308321720,mgal720@uni.ca
+Tasnim,Trujill,3,Mathematics,519540212,ttru212@uni.ca
+Saul,Marshall,1,French,322199840,smar840@uni.ca
+Pablo,Gardner,2,Mechnical Eng.,601109038,pgar038@uni.ca
+Sara,Mcconnell,2,Biology,414177776,smcc776@uni.ca
+Vinnie,Hilton,3,Electrical Eng.,522470781,vhil781@uni.ca
+Kimberley,Morales,4,Mechnical Eng.,698680023,kmor023@uni.ca
+Fatimah,Norris,3,Computer Science,856925033,fnor033@uni.ca
+Macy,Dyer,2,Physics,799106066,mdye066@uni.ca
+Safiyyah,Palmer,4,Law,164071834,spal834@uni.ca
+Henrietta,Sharpe,2,Physics,672408573,hsha573@uni.ca
+Phyllis,Palmer,4,Chemistry,679286792,ppal792@uni.ca
+Kyle,Carpenter,4,Biology,167960474,kcar474@uni.ca
+Mustafa,Cole,4,Philosophy,193426932,mcol932@uni.ca
+Jonathan,Romao,1,Computer Science,839363409,jrom409@uni.ca
+Nora,Griffith,1,Physics,756453694,ngri694@uni.ca
+Alana,Mcgowan,2,French,190123402,amcg402@uni.ca
+Emma,Armstrong,2,Nursing,169793610,earm610@uni.ca
+Pablo,James,3,English,566651079,pjam079@uni.ca
+Arjun,Shaffer,1,Mechnical Eng.,561024137,asha137@uni.ca
+Addie,Mcgowan,1,Computer Science,957660650,amcg650@uni.ca
+Donna,Lozano,2,Chemical Eng.,322581043,dloz043@uni.ca
+Addie,Hendrix,4,Electrical Eng.,524767934,ahen934@uni.ca
+Safiyyah,Schultz,3,Nursing,309784024,ssch024@uni.ca
+Declan,Wiley,1,Computer Science,456537850,dwil850@uni.ca
